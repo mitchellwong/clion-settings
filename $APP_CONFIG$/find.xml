@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <recentFileMasks>
+      <mask>SecTrustedApplication.h</mask>
+      <mask>CommonDigest.h</mask>
+      <mask>guids.cpp</mask>
+      <mask>muscle++.cpp</mask>
+      <mask>musclecard.h</mask>
+      <mask>dictionary.h</mask>
+      <mask>seckeychainsearch.h</mask>
+      <mask>transition.cpp</mask>
+      <mask>cssmcspi.h</mask>
+      <mask>AuthSession.h</mask>
+      <mask>SecCodeHost.h</mask>
+      <mask>CSCommon.h</mask>
+      <mask>mach.h</mask>
+      <mask>SecRequirementPriv.h</mask>
+      <mask>devrandom.cpp</mask>
+      <mask>cdefs.h</mask>
+      <mask>cssmdli.h</mask>
+      <mask>funcnames.gen</mask>
+      <mask>cssmapplePriv.h</mask>
+      <mask>codesigning_dtrace.h</mask>
+      <mask>sqlite3.h</mask>
+      <mask>regex.h</mask>
+      <mask>SenTestingKit.h</mask>
+      <mask>mstcpip.h</mask>
+      <mask>GGMessage.c</mask>
+      <mask>httpd.h</mask>
+      <mask>libwebsockets.h</mask>
+      <mask>.txt</mask>
+      <mask>*.txt</mask>
+      <mask>CMakeLists.txt</mask>
+    </recentFileMasks>
+  </component>
+</application>

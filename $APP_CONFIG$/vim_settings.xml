@@ -1,0 +1,53 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/groundgame-client/CFExtension/CMakeLists.txt" timestamp="1426713253602">
+        <mark key="[" line="44" column="53" />
+        <mark key="]" line="44" column="53" />
+        <mark key="^" line="44" column="53" />
+        <mark key="." line="44" column="53" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text>\</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>\</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIENGU3RyaW5nQWRkaXRpb25zLmMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIENGU3RyaW5nQWRkaXRpb25zLmgKCmFkZF9leGVjdXRhYmxlKENGRXh0ZW5zaW9uICR7U09VUkNFX0ZJTEVTfSkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIENGVXRpbC5oKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text>\</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

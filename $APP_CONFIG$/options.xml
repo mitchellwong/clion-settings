@@ -1,0 +1,42 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.CL-141.102" value="11" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/gcassetdownloaderexternal&#10;C:/Users/mitchell/Desktop/groundgame-client/GCMessageService&#10;C:/Users/mitchell/Desktop/groundgame-client/GCTaskService&#10;C:/Users/mitchell/Desktop/groundgame-client/GCService&#10;C:/Users/mitchell/Desktop/groundgame-client/Win32ClientUI/Win32ClientUITests&#10;C:/Users/mitchell/Documents/cfpreferenceseditor&#10;C:/Users/mitchell/Desktop/groundgame-client&#10;C:/Users/mitchell/AppData/Local/Atlassian/SourceTree/git_local/bin/git.exe&#10;C:/Users/mitchell/Desktop/htmapp&#10;C:/Users/mitchell/Desktop/groundgame-client/GCAssetDownloader/GCAssetDownloaderTests&#10;C:/Users/mitchell/Desktop/groundgame-client/GCAssetDownloader&#10;C:/Users/mitchell/Desktop/groundgame-client/libwebsockets&#10;C:/Users/mitchell/Desktop/groundgame-client/CoreJSON/CoreJSONTests&#10;C:/Users/mitchell/Desktop/groundgame-client/CoreJSON&#10;C:/Users/mitchell/Desktop/groundgame-client/GCClientService/GCClientServiceTests&#10;C:/Users/mitchell/Desktop/groundgame-client/GCClientService&#10;C:/Users/mitchell/Downloads/lpng1617&#10;C:/Users/mitchell/Desktop/groundgame-client/lpng1617&#10;C:/Users/mitchell/Downloads/download_module_curl&#10;C:/Users/mitchell/Downloads/Security-57031.1.35&#10;C:/Users/mitchell/Downloads/Security CMS&#10;C:/Users/mitchell/Desktop/groundgame-client/Win32ClientUI&#10;C:/Users/mitchell/Desktop/groundgame-client/GGDevice/GGDeviceTests&#10;C:/Users/mitchell/Desktop/groundgame-client/GGDevice&#10;C:/Users/mitchell/Desktop/groundgame-client/GGSharedSupport/GGSharedSupportTests&#10;C:/Users/mitchell/Desktop/groundgame-client/GGSharedSupport&#10;C:/Users/mitchell/Desktop/groundgame-client/BackupTools/BackupToolsTests&#10;C:/Users/mitchell/Desktop/groundgame-client/BackupTools&#10;C:/Users/mitchell/Desktop/groundgame-client/minizip&#10;C:/Users/mitchell/Desktop/groundgame-client/CFExtension/CFExtensionTests" />
+    <property name="last.imported.location" value="$USER_HOME$/Desktop/gcassetdownloaderexternal" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="lastTip" value="8" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="KEYMAP" value="insert&#10;shortcut" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="evlsprt3.CL-141.351" value="18" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="evlsprt.CL-141.351" value="14ceebb6200" />
+    <property name="evlsprt2.CL-141.351" value="14c92464a80" />
+    <property name="run.configuration.delete.ad" value="true" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Wrapping and Braces" />
+    <property name="evlsprt3.1" value="12" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesC/C++" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="PLUGIN_FILTER" value="settings repo&#10;browse" />
+    <property name="INTENTION_FILTER_HISTORY" value="" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="C++ Implemented Function Body" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="export.settings.path" value="C:\Users\mitchell\.clion10\config\settings.jar" />
+  </component>
+</application>
