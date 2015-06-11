@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.c*" />
     <recentFileMasks>
-      <mask>SecTrustedApplication.h</mask>
       <mask>CommonDigest.h</mask>
       <mask>guids.cpp</mask>
       <mask>muscle++.cpp</mask>
@@ -31,6 +31,7 @@
       <mask>.txt</mask>
       <mask>*.txt</mask>
       <mask>CMakeLists.txt</mask>
+      <mask>*.c*</mask>
     </recentFileMasks>
   </component>
 </application>
